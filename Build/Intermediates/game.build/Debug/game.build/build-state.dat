@@ -1,0 +1,937 @@
+Tgame
+v6
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Game.o /Users/alyshehata/game/game/Game.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Consumable.o /Users/alyshehata/game/game/Consumable.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/DungeonLevel.o /Users/alyshehata/game/game/DungeonLevel.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Entity.o /Users/alyshehata/game/game/Entity.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/XMLSerializable.o /Users/alyshehata/game/game/XMLSerializable.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/parser.o /Users/alyshehata/game/game/parser.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Unit.o /Users/alyshehata/game/game/Unit.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Tile.o /Users/alyshehata/game/game/Tile.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Weapon.o /Users/alyshehata/game/game/Weapon.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Item.o /Users/alyshehata/game/game/Item.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Enemy.o /Users/alyshehata/game/game/Enemy.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Factory.o /Users/alyshehata/game/game/Factory.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Player.o /Users/alyshehata/game/game/Player.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/XMLParser.o /Users/alyshehata/game/game/XMLParser.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/EnemyFactory.o /Users/alyshehata/game/game/EnemyFactory.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/main.o /Users/alyshehata/game/game/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Armor.o /Users/alyshehata/game/game/Armor.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/alyshehata/game/Build/Products/Debug/game normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000530295C100000000000000AA
+t1392678337
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000534C9FB3000000000000044C
+t1397530547
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000534C9FB300000000000001DE
+t1397530547
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c00000000534C9FB6000000000000681C
+t1397530550
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+c00000000534C9FB6000000000006E8B0
+t1397530550
+s452784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c00000000534C9FB60000000000004734
+t1397530550
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000534C9FB6000000000000FC6C
+t1397530550
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000534C9FB6000000000000F6A0
+t1397530550
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c00000000534C9FB60000000000006254
+t1397530550
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c00000000534C9FB6000000000000E0F8
+t1397530550
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c00000000534C9FB6000000000000D6DC
+t1397530550
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c00000000534C9FB60000000000006308
+t1397530550
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c00000000534C9FB60000000000004050
+t1397530550
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c00000000534C9FB60000000000008570
+t1397530550
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c00000000534C9FB60000000000005EA0
+t1397530550
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c00000000534C9FB60000000000005FAC
+t1397530550
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c00000000534C9FB60000000000004440
+t1397530550
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c00000000534C9FB6000000000000AA28
+t1397530550
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000534C9FB60000000000003E2C
+t1397530550
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c00000000534C9FB60000000000030B04
+t1397530550
+s199428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000534C9FB60000000000005E54
+t1397530550
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000534C9FB60000000000006A90
+t1397530550
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c00000000534C9FB600000000000178AC
+t1397530550
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000534C9FB6000000000001ADC8
+t1397530550
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c00000000534C9FB6000000000001028C
+t1397530550
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000534C9FB60000000000008800
+t1397530550
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c00000000534C9FB60000000000011090
+t1397530550
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000534C9FB6000000000000882C
+t1397530550
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c00000000534C9FB600000000000067AC
+t1397530550
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000534C9FB60000000000008DEC
+t1397530550
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000534C9FB60000000000004C08
+t1397530550
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c00000000534C9FB60000000000002428
+t1397530550
+s9256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c00000000534C9FB6000000000000439C
+t1397530550
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c00000000534C9FB60000000000006768
+t1397530550
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c00000000534C9FB600000000000172F4
+t1397530550
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000534C9FBC0000000000000ADC
+t1397530556
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+c00000000534C9FBC0000000000001770
+t1397530556
+s6000
+
+N/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Armor.o
+t1398823317
+s135632
+
+N/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Consumable.o
+t1398823315
+s94592
+
+N/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/DungeonLevel.o
+t1398823316
+s366320
+
+N/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Enemy.o
+t1398823316
+s125444
+
+N/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/EnemyFactory.o
+t1398823317
+s121044
+
+N/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Entity.o
+t1398826182
+s161524
+
+N/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Factory.o
+t1398823317
+s372040
+
+N/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Game.o
+t1398837244
+s724972
+
+N/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Item.o
+t1398823316
+s122956
+
+N/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Player.o
+t1398826182
+s110888
+
+N/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Tile.o
+t1398823315
+s4656
+
+N/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Unit.o
+t1398823315
+s155908
+
+N/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Weapon.o
+t1398823315
+s135548
+
+N/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/XMLParser.o
+t1398823493
+s952080
+
+N/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/XMLSerializable.o
+t1398823315
+s54480
+
+N/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/game.LinkFileList
+c000000005360599300000000000006D7
+t1398823315
+s1751
+
+N/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/main.o
+t1398836580
+s303844
+
+N/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/parser.o
+t1398823316
+s254304
+
+N/Users/alyshehata/game/Build/Products/Debug/game
+t1398837177
+s511016
+
+N/Users/alyshehata/game/game/Armor.cpp
+c00000000535D50ED0000000000000607
+t1398624493
+s1543
+
+N/Users/alyshehata/game/game/Armor.h
+c00000000535D50E00000000000000354
+t1398624480
+s852
+
+N/Users/alyshehata/game/game/Consumable.cpp
+c000000005323D9CD0000000000000232
+t1394858445
+s562
+
+N/Users/alyshehata/game/game/Consumable.h
+c000000005323D97C000000000000022A
+t1394858364
+s554
+
+N/Users/alyshehata/game/game/DungeonLevel.cpp
+c000000005354A3B500000000000026AA
+t1398055861
+s9898
+
+N/Users/alyshehata/game/game/DungeonLevel.h
+c000000005354A2600000000000000306
+t1398055520
+s774
+
+N/Users/alyshehata/game/game/Enemy.cpp
+c00000000532260D0000000000000051C
+t1394761936
+s1308
+
+N/Users/alyshehata/game/game/Enemy.h
+c00000000532260C100000000000002BF
+t1394761921
+s703
+
+N/Users/alyshehata/game/game/EnemyFactory.cpp
+c00000000533DD8F900000000000001A4
+t1396562169
+s420
+
+N/Users/alyshehata/game/game/EnemyFactory.h
+c00000000533DD8F90000000000000169
+t1396562169
+s361
+
+N/Users/alyshehata/game/game/Entity.cpp
+c00000000536064C6000000000000073C
+t1398826182
+s1852
+
+N/Users/alyshehata/game/game/Entity.h
+c00000000535D539A000000000000042E
+t1398625178
+s1070
+
+N/Users/alyshehata/game/game/Factory.cpp
+c00000000535DAC1D0000000000000A74
+t1398647837
+s2676
+
+N/Users/alyshehata/game/game/Factory.h
+c00000000535DAC2500000000000002CC
+t1398647845
+s716
+
+N/Users/alyshehata/game/game/Game.cpp
+c0000000053608FFB0000000000003DFE
+t1398837243
+s15870
+
+N/Users/alyshehata/game/game/Game.h
+c0000000053608D640000000000000464
+t1398836580
+s1124
+
+N/Users/alyshehata/game/game/Item.cpp
+c00000000535FDDE200000000000007B0
+t1398791650
+s1968
+
+N/Users/alyshehata/game/game/Item.h
+c00000000535FDCE900000000000003B8
+t1398791401
+s952
+
+N/Users/alyshehata/game/game/Parser.h
+c00000000533DD9010000000000000138
+t1396562177
+s312
+
+N/Users/alyshehata/game/game/Player.cpp
+c00000000536064C600000000000004E2
+t1398826182
+s1250
+
+N/Users/alyshehata/game/game/Player.h
+c00000000535EF3690000000000000427
+t1398731625
+s1063
+
+N/Users/alyshehata/game/game/Tile.cpp
+c00000000532CB4B0000000000000021B
+t1395438768
+s539
+
+N/Users/alyshehata/game/game/Tile.h
+c000000005323DDAA000000000000017C
+t1394859434
+s380
+
+N/Users/alyshehata/game/game/Unit.cpp
+c00000000535C9B7D0000000000000858
+t1398578045
+s2136
+
+N/Users/alyshehata/game/game/Unit.h
+c00000000535EB12800000000000004CF
+t1398714664
+s1231
+
+N/Users/alyshehata/game/game/Weapon.cpp
+c00000000535D509600000000000005FC
+t1398624406
+s1532
+
+N/Users/alyshehata/game/game/Weapon.h
+c00000000535D5096000000000000034F
+t1398624406
+s847
+
+N/Users/alyshehata/game/game/XMLParser.cpp
+c0000000053605A440000000000000BE7
+t1398823492
+s3047
+
+N/Users/alyshehata/game/game/XMLParser.h
+c00000000532260C60000000000000272
+t1394761926
+s626
+
+N/Users/alyshehata/game/game/XMLSerializable.cpp
+c00000000532260D50000000000000150
+t1394761941
+s336
+
+N/Users/alyshehata/game/game/XMLSerializable.h
+c00000000532260C700000000000001BA
+t1394761927
+s442
+
+N/Users/alyshehata/game/game/main.cpp
+c0000000053605A980000000000000101
+t1398823576
+s257
+
+N/Users/alyshehata/game/game/parser.cpp
+c00000000535C8ADB0000000000001EB0
+t1398573787
+s7856
+
+N/opt/local/lib/libncurses.5.dylib
+c00000000528A8956000000000003FBC4
+t1384810838
+s261060
+
+CBuild AST from /Users/alyshehata/game/game/Armor.cpp
+r0
+
+CBuild AST from /Users/alyshehata/game/game/Consumable.cpp
+r0
+
+CBuild AST from /Users/alyshehata/game/game/DungeonLevel.cpp
+r0
+
+CBuild AST from /Users/alyshehata/game/game/Enemy.cpp
+r0
+
+CBuild AST from /Users/alyshehata/game/game/EnemyFactory.cpp
+r0
+
+CBuild AST from /Users/alyshehata/game/game/Entity.cpp
+r0
+
+CBuild AST from /Users/alyshehata/game/game/Factory.cpp
+r0
+
+CBuild AST from /Users/alyshehata/game/game/Game.cpp
+r0
+
+CBuild AST from /Users/alyshehata/game/game/Item.cpp
+r0
+
+CBuild AST from /Users/alyshehata/game/game/Player.cpp
+r0
+
+CBuild AST from /Users/alyshehata/game/game/Tile.cpp
+r0
+
+CBuild AST from /Users/alyshehata/game/game/Unit.cpp
+r0
+
+CBuild AST from /Users/alyshehata/game/game/Weapon.cpp
+r0
+
+CBuild AST from /Users/alyshehata/game/game/XMLParser.cpp
+r0
+
+CBuild AST from /Users/alyshehata/game/game/XMLSerializable.cpp
+r0
+
+CBuild AST from /Users/alyshehata/game/game/main.cpp
+r0
+
+CBuild AST from /Users/alyshehata/game/game/parser.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0001777bc710b941^1806787bc710b941^---0#1#1#--18"Check dependencies36"D22F7244-8A7A-4885-BB29-EFDD6E9217FE-
+
+CCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Armor.o /Users/alyshehata/game/game/Armor.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420516116.535981
+e420516117.176387
+r1
+xCompileC
+xBuild/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Armor.o
+x/Users/alyshehata/game/game/Armor.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alyshehata/game/game/Armor.cpp
+d/Users/alyshehata/game/game/Armor.h
+d/Users/alyshehata/game/game/Item.h
+d/Users/alyshehata/game/game/Entity.h
+d/Users/alyshehata/game/game/XMLSerializable.h
+d/Users/alyshehata/game/game/Unit.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Compile /Users/alyshehata/game/game/Armor.cpp163"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Armor.o game/Armor.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler225089149110b941^8d282d159110b941^---0#0#1#-19%DVTDocumentLocation2@44"file:///Users/alyshehata/game/game/Armor.cpp0000000000000000^2637"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Armor.o game/Armor.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alyshehata/game    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/alyshehata/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-generated-files.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-own-target-headers.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-all-target-headers.hmap -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-project-headers.hmap -I/Users/alyshehata/game/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources/x86_64 -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources -F/Users/alyshehata/game/Build/Products/Debug -MMD -MT dependencies -MF /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Armor.d --serialize-diagnostics /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Armor.dia -c /Users/alyshehata/game/game/Armor.cpp -o /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Armor.o36"D85D9393-7984-4214-8D7A-4CD05975A960-
+b0C32819F-2336-47B2-B69A-1F5E458968D9
+
+CCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Consumable.o /Users/alyshehata/game/game/Consumable.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420516115.055222
+e420516115.813971
+r1
+xCompileC
+xBuild/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Consumable.o
+x/Users/alyshehata/game/game/Consumable.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alyshehata/game/game/Consumable.cpp
+d/Users/alyshehata/game/game/Consumable.h
+d/Users/alyshehata/game/game/Item.h
+d/Users/alyshehata/game/game/Entity.h
+d/Users/alyshehata/game/game/XMLSerializable.h
+d/Users/alyshehata/game/game/Unit.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Compile /Users/alyshehata/game/game/Consumable.cpp173"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Consumable.o game/Consumable.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler363b0e139110b941^fe60d0139110b941^---0#0#1#-19%DVTDocumentLocation2@49"file:///Users/alyshehata/game/game/Consumable.cpp0000000000000000^2667"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Consumable.o game/Consumable.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alyshehata/game    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/alyshehata/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-generated-files.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-own-target-headers.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-all-target-headers.hmap -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-project-headers.hmap -I/Users/alyshehata/game/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources/x86_64 -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources -F/Users/alyshehata/game/Build/Products/Debug -MMD -MT dependencies -MF /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Consumable.d --serialize-diagnostics /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Consumable.dia -c /Users/alyshehata/game/game/Consumable.cpp -o /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Consumable.o36"65278085-2C41-4279-BE93-5AABCD99A69D-
+b0C32819F-2336-47B2-B69A-1F5E458968D9
+
+CCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/DungeonLevel.o /Users/alyshehata/game/game/DungeonLevel.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420516115.056210
+e420516116.318765
+r1
+xCompileC
+xBuild/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/DungeonLevel.o
+x/Users/alyshehata/game/game/DungeonLevel.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alyshehata/game/game/DungeonLevel.cpp
+d/Users/alyshehata/game/game/DungeonLevel.h
+d/Users/alyshehata/game/game/Tile.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Compile /Users/alyshehata/game/game/DungeonLevel.cpp177"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/DungeonLevel.o game/DungeonLevel.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler34810e139110b941^fa9a51149110b941^---0#0#1#-19%DVTDocumentLocation2@51"file:///Users/alyshehata/game/game/DungeonLevel.cpp0000000000000000^2679"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/DungeonLevel.o game/DungeonLevel.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alyshehata/game    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/alyshehata/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-generated-files.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-own-target-headers.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-all-target-headers.hmap -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-project-headers.hmap -I/Users/alyshehata/game/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources/x86_64 -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources -F/Users/alyshehata/game/Build/Products/Debug -MMD -MT dependencies -MF /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/DungeonLevel.d --serialize-diagnostics /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/DungeonLevel.dia -c /Users/alyshehata/game/game/DungeonLevel.cpp -o /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/DungeonLevel.o36"AE3DD1B6-8BAF-4D8A-8BC3-13ECC65AB017-
+b0C32819F-2336-47B2-B69A-1F5E458968D9
+
+CCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Enemy.o /Users/alyshehata/game/game/Enemy.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420516115.814684
+e420516116.645543
+r1
+xCompileC
+xBuild/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Enemy.o
+x/Users/alyshehata/game/game/Enemy.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alyshehata/game/game/Enemy.cpp
+d/Users/alyshehata/game/game/Enemy.h
+d/Users/alyshehata/game/game/Unit.h
+d/Users/alyshehata/game/game/Entity.h
+d/Users/alyshehata/game/game/XMLSerializable.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Compile /Users/alyshehata/game/game/Enemy.cpp163"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Enemy.o game/Enemy.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerb5a7d0139110b941^b342a5149110b941^---0#0#1#-19%DVTDocumentLocation2@44"file:///Users/alyshehata/game/game/Enemy.cpp0000000000000000^2637"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Enemy.o game/Enemy.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alyshehata/game    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/alyshehata/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-generated-files.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-own-target-headers.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-all-target-headers.hmap -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-project-headers.hmap -I/Users/alyshehata/game/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources/x86_64 -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources -F/Users/alyshehata/game/Build/Products/Debug -MMD -MT dependencies -MF /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Enemy.d --serialize-diagnostics /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Enemy.dia -c /Users/alyshehata/game/game/Enemy.cpp -o /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Enemy.o36"9F2B29DB-16CE-41BB-BDC3-B9D5A1C7B024-
+b0C32819F-2336-47B2-B69A-1F5E458968D9
+
+CCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/EnemyFactory.o /Users/alyshehata/game/game/EnemyFactory.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420516116.109300
+e420516117.014519
+r1
+xCompileC
+xBuild/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/EnemyFactory.o
+x/Users/alyshehata/game/game/EnemyFactory.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alyshehata/game/game/EnemyFactory.cpp
+d/Users/alyshehata/game/game/EnemyFactory.h
+d/Users/alyshehata/game/game/Enemy.h
+d/Users/alyshehata/game/game/Unit.h
+d/Users/alyshehata/game/game/Entity.h
+d/Users/alyshehata/game/game/XMLSerializable.h
+o/Users/alyshehata/game/game/EnemyFactory.cpp:25:20: warning: implicit conversion loses integer precision: 'time_t' (aka 'long') to 'result_type' (aka 'unsigned int') [-Wshorten-64-to-32]
+o        static mt19937 mt(time(NULL));
+o                       ~~ ^~~~~~~~~~
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Compile /Users/alyshehata/game/game/EnemyFactory.cpp177"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/EnemyFactory.o game/EnemyFactory.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilera6461c149110b941^f79404159110b941^-284"/Users/alyshehata/game/game/EnemyFactory.cpp:25:20: warning: implicit conversion loses integer precision: 'time_t' (aka 'long') to 'result_type' (aka 'unsigned int') [-Wshorten-64-to-32]        static mt19937 mt(time(NULL));                       ~~ ^~~~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@104"Implicit conversion loses integer precision: 'time_t' (aka 'long') to 'result_type' (aka 'unsigned int')-420516117#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@51"file:///Users/alyshehata/game/game/EnemyFactory.cpp0000000000000000^24#19#24#19#381#0#22"Value Conversion Issue2(3@51"file:///Users/alyshehata/game/game/EnemyFactory.cpp0000000000000000^24#19#24#29#381#9#3@51"file:///Users/alyshehata/game/game/EnemyFactory.cpp0000000000000000^24#16#24#18#378#0#-0#0#1#-19%DVTDocumentLocation4@51"file:///Users/alyshehata/game/game/EnemyFactory.cpp0000000000000000^2679"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/EnemyFactory.o game/EnemyFactory.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alyshehata/game    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/alyshehata/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-generated-files.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-own-target-headers.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-all-target-headers.hmap -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-project-headers.hmap -I/Users/alyshehata/game/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources/x86_64 -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources -F/Users/alyshehata/game/Build/Products/Debug -MMD -MT dependencies -MF /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/EnemyFactory.d --serialize-diagnostics /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/EnemyFactory.dia -c /Users/alyshehata/game/game/EnemyFactory.cpp -o /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/EnemyFactory.o36"3E3C3481-9059-4B2B-960E-D3CDBDF24A09-
+b0C32819F-2336-47B2-B69A-1F5E458968D9
+
+CCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Entity.o /Users/alyshehata/game/game/Entity.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420518982.148127
+e420518982.808568
+r1
+xCompileC
+xBuild/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Entity.o
+x/Users/alyshehata/game/game/Entity.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alyshehata/game/game/Entity.cpp
+d/Users/alyshehata/game/game/Entity.h
+d/Users/alyshehata/game/game/XMLSerializable.h
+d/Users/alyshehata/game/game/DungeonLevel.h
+d/Users/alyshehata/game/game/Tile.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Compile /Users/alyshehata/game/game/Entity.cpp165"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Entity.o game/Entity.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerc5ff25469c10b941^f8fece469c10b941^---0#0#1#-19%DVTDocumentLocation2@45"file:///Users/alyshehata/game/game/Entity.cpp0000000000000000^2643"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Entity.o game/Entity.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alyshehata/game    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/alyshehata/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-generated-files.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-own-target-headers.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-all-target-headers.hmap -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-project-headers.hmap -I/Users/alyshehata/game/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources/x86_64 -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources -F/Users/alyshehata/game/Build/Products/Debug -MMD -MT dependencies -MF /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Entity.d --serialize-diagnostics /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Entity.dia -c /Users/alyshehata/game/game/Entity.cpp -o /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Entity.o36"A2DD3003-C717-4E9C-8DDA-9E826990383C-
+bEB3BB3DA-0A96-439C-9C5F-28327BFE48BB
+
+CCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Factory.o /Users/alyshehata/game/game/Factory.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420516115.903161
+e420516117.110550
+r1
+xCompileC
+xBuild/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Factory.o
+x/Users/alyshehata/game/game/Factory.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alyshehata/game/game/Factory.cpp
+d/Users/alyshehata/game/game/Factory.h
+d/Users/alyshehata/game/game/XMLSerializable.h
+d/Users/alyshehata/game/game/XMLParser.h
+d/Users/alyshehata/game/game/Unit.h
+d/Users/alyshehata/game/game/Entity.h
+d/Users/alyshehata/game/game/Weapon.h
+d/Users/alyshehata/game/game/Item.h
+d/Users/alyshehata/game/game/Armor.h
+o/Users/alyshehata/game/game/Factory.cpp:22:15: warning: implicit conversion loses integer precision: 'time_t' (aka 'long') to 'result_type' (aka 'unsigned int') [-Wshorten-64-to-32]
+o    rand.seed(time(NULL));
+o    ~~~~      ^~~~~~~~~~
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Compile /Users/alyshehata/game/game/Factory.cpp167"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Factory.o game/Factory.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerba4ee7139110b941^c64e1c159110b941^-255"/Users/alyshehata/game/game/Factory.cpp:22:15: warning: implicit conversion loses integer precision: 'time_t' (aka 'long') to 'result_type' (aka 'unsigned int') [-Wshorten-64-to-32]    rand.seed(time(NULL));    ~~~~      ^~~~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@104"Implicit conversion loses integer precision: 'time_t' (aka 'long') to 'result_type' (aka 'unsigned int')-420516117#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@46"file:///Users/alyshehata/game/game/Factory.cpp0000000000000000^21#14#21#14#296#0#22"Value Conversion Issue2(3@46"file:///Users/alyshehata/game/game/Factory.cpp0000000000000000^21#14#21#24#296#9#3@46"file:///Users/alyshehata/game/game/Factory.cpp0000000000000000^21#4#21#8#286#0#-0#0#1#-19%DVTDocumentLocation4@46"file:///Users/alyshehata/game/game/Factory.cpp0000000000000000^2649"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Factory.o game/Factory.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alyshehata/game    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/alyshehata/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-generated-files.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-own-target-headers.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-all-target-headers.hmap -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-project-headers.hmap -I/Users/alyshehata/game/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources/x86_64 -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources -F/Users/alyshehata/game/Build/Products/Debug -MMD -MT dependencies -MF /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Factory.d --serialize-diagnostics /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Factory.dia -c /Users/alyshehata/game/game/Factory.cpp -o /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Factory.o36"705C4D85-6557-4877-990D-B29DBB47E134-
+b0C32819F-2336-47B2-B69A-1F5E458968D9
+
+CCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Game.o /Users/alyshehata/game/game/Game.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420530043.465880
+e420530044.501926
+r1
+xCompileC
+xBuild/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Game.o
+x/Users/alyshehata/game/game/Game.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alyshehata/game/game/Game.cpp
+d/Users/alyshehata/game/game/Game.h
+d/Users/alyshehata/game/game/DungeonLevel.h
+d/Users/alyshehata/game/game/Tile.h
+d/Users/alyshehata/game/game/Player.h
+d/Users/alyshehata/game/game/Unit.h
+d/Users/alyshehata/game/game/Entity.h
+d/Users/alyshehata/game/game/XMLSerializable.h
+d/Users/alyshehata/game/game/Item.h
+d/Users/alyshehata/game/game/Factory.h
+d/Users/alyshehata/game/game/XMLParser.h
+d/Users/alyshehata/game/game/Weapon.h
+d/Users/alyshehata/game/game/Armor.h
+o/Users/alyshehata/game/game/Game.cpp:20:13: warning: implicit conversion loses integer precision: 'time_t' (aka 'long') to 'result_type' (aka 'unsigned int') [-Wshorten-64-to-32]
+o    mt.seed(time(NULL));
+o    ~~      ^~~~~~~~~~
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Users/alyshehata/game/game/Game.cpp161"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Game.o game/Game.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler3d5f777bc710b941^077e807cc710b941^-248"/Users/alyshehata/game/game/Game.cpp:20:13: warning: implicit conversion loses integer precision: 'time_t' (aka 'long') to 'result_type' (aka 'unsigned int') [-Wshorten-64-to-32]    mt.seed(time(NULL));    ~~      ^~~~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@104"Implicit conversion loses integer precision: 'time_t' (aka 'long') to 'result_type' (aka 'unsigned int')-420530044#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@43"file:///Users/alyshehata/game/game/Game.cpp0000000000000000^19#12#19#12#429#0#22"Value Conversion Issue2(3@43"file:///Users/alyshehata/game/game/Game.cpp0000000000000000^19#12#19#22#429#9#3@43"file:///Users/alyshehata/game/game/Game.cpp0000000000000000^19#4#19#6#421#0#-0#0#1#-19%DVTDocumentLocation4@43"file:///Users/alyshehata/game/game/Game.cpp0000000000000000^2631"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Game.o game/Game.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alyshehata/game    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/alyshehata/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-generated-files.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-own-target-headers.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-all-target-headers.hmap -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-project-headers.hmap -I/Users/alyshehata/game/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources/x86_64 -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources -F/Users/alyshehata/game/Build/Products/Debug -MMD -MT dependencies -MF /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Game.d --serialize-diagnostics /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Game.dia -c /Users/alyshehata/game/game/Game.cpp -o /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Game.o36"114AC43F-1AB9-47F9-8363-D432B9883150-
+bDC634A35-B9F5-4F39-889E-DED2C69B3A2B
+
+CCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Item.o /Users/alyshehata/game/game/Item.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420516115.725134
+e420516116.535712
+r1
+xCompileC
+xBuild/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Item.o
+x/Users/alyshehata/game/game/Item.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alyshehata/game/game/Item.cpp
+d/Users/alyshehata/game/game/Item.h
+d/Users/alyshehata/game/game/Entity.h
+d/Users/alyshehata/game/game/XMLSerializable.h
+d/Users/alyshehata/game/game/Unit.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Users/alyshehata/game/game/Item.cpp161"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Item.o game/Item.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler38bbb9139110b941^682589149110b941^---0#0#1#-19%DVTDocumentLocation2@43"file:///Users/alyshehata/game/game/Item.cpp0000000000000000^2631"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Item.o game/Item.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alyshehata/game    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/alyshehata/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-generated-files.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-own-target-headers.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-all-target-headers.hmap -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-project-headers.hmap -I/Users/alyshehata/game/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources/x86_64 -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources -F/Users/alyshehata/game/Build/Products/Debug -MMD -MT dependencies -MF /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Item.d --serialize-diagnostics /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Item.dia -c /Users/alyshehata/game/game/Item.cpp -o /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Item.o36"E9A5E866-C157-4F9A-BA5D-4DDAD38A024F-
+b0C32819F-2336-47B2-B69A-1F5E458968D9
+
+CCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Player.o /Users/alyshehata/game/game/Player.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420518982.149037
+e420518982.640823
+r1
+xCompileC
+xBuild/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Player.o
+x/Users/alyshehata/game/game/Player.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alyshehata/game/game/Player.cpp
+d/Users/alyshehata/game/game/Player.h
+d/Users/alyshehata/game/game/Unit.h
+d/Users/alyshehata/game/game/Entity.h
+d/Users/alyshehata/game/game/XMLSerializable.h
+d/Users/alyshehata/game/game/Item.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Compile /Users/alyshehata/game/game/Player.cpp165"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Player.o game/Player.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerdf3726469c10b941^d2e5a9469c10b941^---0#0#1#-19%DVTDocumentLocation2@45"file:///Users/alyshehata/game/game/Player.cpp0000000000000000^2643"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Player.o game/Player.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alyshehata/game    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/alyshehata/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-generated-files.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-own-target-headers.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-all-target-headers.hmap -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-project-headers.hmap -I/Users/alyshehata/game/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources/x86_64 -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources -F/Users/alyshehata/game/Build/Products/Debug -MMD -MT dependencies -MF /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Player.d --serialize-diagnostics /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Player.dia -c /Users/alyshehata/game/game/Player.cpp -o /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Player.o36"BC42B39B-2676-4D81-9E0B-694FBA544CC8-
+bEB3BB3DA-0A96-439C-9C5F-28327BFE48BB
+
+CCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Tile.o /Users/alyshehata/game/game/Tile.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420516115.059719
+e420516115.088871
+r1
+xCompileC
+xBuild/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Tile.o
+x/Users/alyshehata/game/game/Tile.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alyshehata/game/game/Tile.cpp
+d/Users/alyshehata/game/game/Tile.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Users/alyshehata/game/game/Tile.cpp161"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Tile.o game/Tile.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler6da90f139110b941^40c016139110b941^---0#0#1#-19%DVTDocumentLocation2@43"file:///Users/alyshehata/game/game/Tile.cpp0000000000000000^2631"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Tile.o game/Tile.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alyshehata/game    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/alyshehata/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-generated-files.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-own-target-headers.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-all-target-headers.hmap -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-project-headers.hmap -I/Users/alyshehata/game/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources/x86_64 -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources -F/Users/alyshehata/game/Build/Products/Debug -MMD -MT dependencies -MF /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Tile.d --serialize-diagnostics /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Tile.dia -c /Users/alyshehata/game/game/Tile.cpp -o /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Tile.o36"E7C1358B-46F9-43EA-A040-7EF9272A65F8-
+b0C32819F-2336-47B2-B69A-1F5E458968D9
+
+CCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Unit.o /Users/alyshehata/game/game/Unit.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420516115.058094
+e420516115.905282
+r1
+xCompileC
+xBuild/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Unit.o
+x/Users/alyshehata/game/game/Unit.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alyshehata/game/game/Unit.cpp
+d/Users/alyshehata/game/game/Unit.h
+d/Users/alyshehata/game/game/Entity.h
+d/Users/alyshehata/game/game/XMLSerializable.h
+d/Users/alyshehata/game/game/Item.h
+d/Users/alyshehata/game/game/Armor.h
+d/Users/alyshehata/game/game/Weapon.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Users/alyshehata/game/game/Unit.cpp161"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Unit.o game/Unit.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler8cf80e139110b941^40f8e8139110b941^---0#0#1#-19%DVTDocumentLocation2@43"file:///Users/alyshehata/game/game/Unit.cpp0000000000000000^2631"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Unit.o game/Unit.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alyshehata/game    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/alyshehata/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-generated-files.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-own-target-headers.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-all-target-headers.hmap -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-project-headers.hmap -I/Users/alyshehata/game/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources/x86_64 -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources -F/Users/alyshehata/game/Build/Products/Debug -MMD -MT dependencies -MF /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Unit.d --serialize-diagnostics /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Unit.dia -c /Users/alyshehata/game/game/Unit.cpp -o /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Unit.o36"7006C0FC-9866-4BDC-89A4-87033AC5EDC8-
+b0C32819F-2336-47B2-B69A-1F5E458968D9
+
+CCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Weapon.o /Users/alyshehata/game/game/Weapon.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420516115.090148
+e420516115.902893
+r1
+xCompileC
+xBuild/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Weapon.o
+x/Users/alyshehata/game/game/Weapon.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alyshehata/game/game/Weapon.cpp
+d/Users/alyshehata/game/game/Weapon.h
+d/Users/alyshehata/game/game/Item.h
+d/Users/alyshehata/game/game/Entity.h
+d/Users/alyshehata/game/game/XMLSerializable.h
+d/Users/alyshehata/game/game/Unit.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Compile /Users/alyshehata/game/game/Weapon.cpp165"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Weapon.o game/Weapon.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler5e2d17139110b941^d924e7139110b941^---0#0#1#-19%DVTDocumentLocation2@45"file:///Users/alyshehata/game/game/Weapon.cpp0000000000000000^2643"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Weapon.o game/Weapon.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alyshehata/game    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/alyshehata/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-generated-files.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-own-target-headers.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-all-target-headers.hmap -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-project-headers.hmap -I/Users/alyshehata/game/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources/x86_64 -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources -F/Users/alyshehata/game/Build/Products/Debug -MMD -MT dependencies -MF /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Weapon.d --serialize-diagnostics /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Weapon.dia -c /Users/alyshehata/game/game/Weapon.cpp -o /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Weapon.o36"81BE809C-A6E0-460D-A194-E6702F058B36-
+b0C32819F-2336-47B2-B69A-1F5E458968D9
+
+CCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/XMLParser.o /Users/alyshehata/game/game/XMLParser.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420516292.591447
+e420516293.611423
+r1
+xCompileC
+xBuild/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/XMLParser.o
+x/Users/alyshehata/game/game/XMLParser.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alyshehata/game/game/XMLParser.cpp
+d/Users/alyshehata/game/game/XMLParser.h
+d/Users/alyshehata/game/game/XMLSerializable.h
+d/Users/alyshehata/game/game/Item.h
+d/Users/alyshehata/game/game/Entity.h
+d/Users/alyshehata/game/game/Unit.h
+d/Users/alyshehata/game/game/Enemy.h
+d/Users/alyshehata/game/game/Armor.h
+d/Users/alyshehata/game/game/Weapon.h
+d/Users/alyshehata/game/game/Consumable.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Compile /Users/alyshehata/game/game/XMLParser.cpp171"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/XMLParser.o game/XMLParser.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerb37e97c49110b941^66879cc59110b941^---0#0#1#-19%DVTDocumentLocation2@48"file:///Users/alyshehata/game/game/XMLParser.cpp0000000000000000^2661"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/XMLParser.o game/XMLParser.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alyshehata/game    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/alyshehata/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-generated-files.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-own-target-headers.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-all-target-headers.hmap -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-project-headers.hmap -I/Users/alyshehata/game/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources/x86_64 -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources -F/Users/alyshehata/game/Build/Products/Debug -MMD -MT dependencies -MF /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/XMLParser.d --serialize-diagnostics /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/XMLParser.dia -c /Users/alyshehata/game/game/XMLParser.cpp -o /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/XMLParser.o36"42E26769-9202-4C1D-9E43-9B5994ADDEBF-
+bED6E8A33-D382-474B-9593-A94C4AF36E37
+
+CCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/XMLSerializable.o /Users/alyshehata/game/game/XMLSerializable.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420516115.056973
+e420516115.724375
+r1
+xCompileC
+xBuild/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/XMLSerializable.o
+x/Users/alyshehata/game/game/XMLSerializable.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alyshehata/game/game/XMLSerializable.cpp
+d/Users/alyshehata/game/game/XMLSerializable.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/alyshehata/game/game/XMLSerializable.cpp183"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/XMLSerializable.o game/XMLSerializable.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler38ba0e139110b941^7e71b9139110b941^---0#0#1#-19%DVTDocumentLocation2@54"file:///Users/alyshehata/game/game/XMLSerializable.cpp0000000000000000^2697"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/XMLSerializable.o game/XMLSerializable.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alyshehata/game    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/alyshehata/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-generated-files.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-own-target-headers.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-all-target-headers.hmap -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-project-headers.hmap -I/Users/alyshehata/game/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources/x86_64 -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources -F/Users/alyshehata/game/Build/Products/Debug -MMD -MT dependencies -MF /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/XMLSerializable.d --serialize-diagnostics /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/XMLSerializable.dia -c /Users/alyshehata/game/game/XMLSerializable.cpp -o /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/XMLSerializable.o36"8227D498-ED4E-40BC-AC5D-ACC2B6223A66-
+b0C32819F-2336-47B2-B69A-1F5E458968D9
+
+CCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/main.o /Users/alyshehata/game/game/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420529380.217650
+e420529380.885774
+r1
+xCompileC
+xBuild/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/main.o
+x/Users/alyshehata/game/game/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alyshehata/game/game/main.cpp
+d/Users/alyshehata/game/game/Game.h
+d/Users/alyshehata/game/game/DungeonLevel.h
+d/Users/alyshehata/game/game/Tile.h
+d/Users/alyshehata/game/game/Player.h
+d/Users/alyshehata/game/game/Unit.h
+d/Users/alyshehata/game/game/Entity.h
+d/Users/alyshehata/game/game/XMLSerializable.h
+d/Users/alyshehata/game/game/Item.h
+d/Users/alyshehata/game/game/Factory.h
+d/Users/alyshehata/game/game/XMLParser.h
+d/Users/alyshehata/game/game/Weapon.h
+d/Users/alyshehata/game/game/Armor.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Users/alyshehata/game/game/main.cpp161"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/main.o game/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler4bc837e4c410b941^59c2e2e4c410b941^---0#0#1#-19%DVTDocumentLocation2@43"file:///Users/alyshehata/game/game/main.cpp0000000000000000^2631"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/main.o game/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alyshehata/game    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/alyshehata/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-generated-files.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-own-target-headers.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-all-target-headers.hmap -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-project-headers.hmap -I/Users/alyshehata/game/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources/x86_64 -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources -F/Users/alyshehata/game/Build/Products/Debug -MMD -MT dependencies -MF /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/main.dia -c /Users/alyshehata/game/game/main.cpp -o /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/main.o36"8F85D030-5B51-4FCB-8217-97AA40817314-
+b0A2BD780-99D1-43D9-8EE9-337FD82632C1
+
+CCompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/parser.o /Users/alyshehata/game/game/parser.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420516115.057490
+e420516116.109043
+r1
+xCompileC
+xBuild/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/parser.o
+x/Users/alyshehata/game/game/parser.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alyshehata/game/game/parser.cpp
+d/Users/alyshehata/game/game/XMLSerializable.h
+d/Users/alyshehata/game/game/Item.h
+d/Users/alyshehata/game/game/Entity.h
+d/Users/alyshehata/game/game/Unit.h
+d/Users/alyshehata/game/game/Armor.h
+d/Users/alyshehata/game/game/Consumable.h
+d/Users/alyshehata/game/game/Weapon.h
+d/Users/alyshehata/game/game/Parser.h
+d/Users/alyshehata/game/game/Enemy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Compile /Users/alyshehata/game/game/parser.cpp165"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/parser.o game/parser.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerf9db0e139110b941^60ea1b149110b941^---0#0#1#-19%DVTDocumentLocation2@45"file:///Users/alyshehata/game/game/parser.cpp0000000000000000^2643"CompileC Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/parser.o game/parser.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alyshehata/game    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/alyshehata/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-generated-files.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-own-target-headers.hmap -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-all-target-headers.hmap -iquote /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/game-project-headers.hmap -I/Users/alyshehata/game/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources/x86_64 -I/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/DerivedSources -F/Users/alyshehata/game/Build/Products/Debug -MMD -MT dependencies -MF /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/parser.d --serialize-diagnostics /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/parser.dia -c /Users/alyshehata/game/game/parser.cpp -o /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/parser.o36"18CF86D8-7023-4CD6-BC97-2491CFFD5F5D-
+b0C32819F-2336-47B2-B69A-1F5E458968D9
+
+CLd /Users/alyshehata/game/Build/Products/Debug/game normal x86_64
+s420530044.503138
+e420530044.527646
+r1
+xLd
+x/Users/alyshehata/game/Build/Products/Debug/game
+xnormal
+xx86_64
+d/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/game.LinkFileList
+d/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Game.o
+d/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Consumable.o
+d/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/DungeonLevel.o
+d/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Entity.o
+d/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/XMLSerializable.o
+d/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/parser.o
+d/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Unit.o
+d/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Tile.o
+d/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Weapon.o
+d/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Item.o
+d/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Enemy.o
+d/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Factory.o
+d/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Player.o
+d/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/XMLParser.o
+d/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/EnemyFactory.o
+d/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/main.o
+d/Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/Armor.o
+d/opt/local/lib/libncurses.5.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Link /Users/alyshehata/game/Build/Products/Debug/game42"Ld Build/Products/Debug/game normal x86_6499d8807cc710b941^ba14877cc710b941^---0#0#1#--823"Ld Build/Products/Debug/game normal x86_64    cd /Users/alyshehata/game    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/alyshehata/game/Build/Products/Debug -L/opt/local/lib -F/Users/alyshehata/game/Build/Products/Debug -filelist /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/game.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -lncurses.5 -Xlinker -dependency_info -Xlinker /Users/alyshehata/game/Build/Intermediates/game.build/Debug/game.build/Objects-normal/x86_64/game_dependency_info.dat -o /Users/alyshehata/game/Build/Products/Debug/game36"E8CBC3B8-95AF-4673-B3E9-67C086CE57A4-
+bDC634A35-B9F5-4F39-889E-DED2C69B3A2B
+

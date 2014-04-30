@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<World>
+  <Item>
+    <name>silver key</name>
+    <weight>1</weight>
+    <displayChar>)</displayChar>
+    <value>10</value>
+  </Item>
+
+  <Enemy>
+    <name>orc</name>
+    <health>15</health>
+    <level>3</level>
+    <displayChar>o</displayChar>
+    <hostile>true</hostile>
+  </Enemy>
+
+  <Enemy>
+    <name>kobold</name>
+    <health>6</health>
+    <level>1</level>
+    <displayChar>k</displayChar>
+    <hostile>true</hostile>
+  </Enemy>
+
+  <Enemy>
+    <name>orc warrior</name>
+    <health>25</health>
+    <level>6</level>
+    <displayChar>o</displayChar>
+    <hostile>true</hostile>
+  </Enemy>
+
+  <Enemy>
+    <name>goblin</name>
+    <health>4</health>
+    <level>1</level>
+    <displayChar>g</displayChar>
+    <hostile>true</hostile>
+  </Enemy>
+
+  <Enemy>
+    <name>gnome</name>
+    <health>15</health>
+    <level>3</level>
+    <displayChar>G</displayChar>
+    <hostile>false</hostile>
+  </Enemy>
+
+
+  <Weapon>
+    <name>greatsword</name>
+    <weight>20</weight>
+    <value>100</value>
+    <displayChar>(</displayChar>
+    <damage>10</damage>
+    <type>slashing</type>
+  </Weapon>
+
+  <Weapon>
+    <name>warhammer</name>
+    <weight>10</weight>
+    <value>50</value>
+    <displayChar>(</displayChar>
+    <damage>5</damage>
+    <type>blunt</type>
+  </Weapon>
+
+  <Weapon>
+    <name>dagger</name>
+    <weight>5</weight>
+    <value>10</value>
+    <displayChar>(</displayChar>
+    <damage>3</damage>
+    <type>piercing</type>
+  </Weapon>
+
+  <Armor>
+    <name>chainmail</name>
+    <weight>30</weight>
+    <value>80</value>
+    <displayChar>[</displayChar>
+    <protection>5</protection>
+    <type>body</type>
+ </Armor>
+
+  <Armor>
+    <name>leather</name>
+    <weight>10</weight>
+    <value>20</value>
+    <displayChar>[</displayChar>
+    <protection>2</protection>
+    <type>body</type>
+  </Armor>
+
+  <Armor>
+    <name>platemail</name>
+    <weight>50</weight>
+    <value>200</value>
+    <displayChar>[</displayChar>
+    <protection>12</protection>
+    <type>body</type>
+  </Armor>
+
+  <Consumable>
+    <name>zombie meat</name>
+	<weight>1</weight>
+	<value>1</value>
+	<displayChar>v</displayChar>
+	<health>5</health>
+	<nutrition>0</nutrition>
+  </Consumable>
+
+
+</World>
+
+
+

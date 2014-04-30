@@ -9,6 +9,23 @@
 /* Begin PBXBuildFile section */
 		A2440B1E191090DA001F5FD5 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A2440B1D191090DA001F5FD5 /* main.cpp */; };
 		A2440B20191090DA001F5FD5 /* game.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = A2440B1F191090DA001F5FD5 /* game.1 */; };
+		A2440B4619109111001F5FD5 /* Armor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A2440B2619109111001F5FD5 /* Armor.cpp */; };
+		A2440B4719109111001F5FD5 /* Consumable.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A2440B2819109111001F5FD5 /* Consumable.cpp */; };
+		A2440B4819109111001F5FD5 /* DungeonLevel.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A2440B2A19109111001F5FD5 /* DungeonLevel.cpp */; };
+		A2440B4919109111001F5FD5 /* Enemy.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A2440B2C19109111001F5FD5 /* Enemy.cpp */; };
+		A2440B4A19109111001F5FD5 /* EnemyFactory.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A2440B2E19109111001F5FD5 /* EnemyFactory.cpp */; };
+		A2440B4B19109111001F5FD5 /* Entity.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A2440B3019109111001F5FD5 /* Entity.cpp */; };
+		A2440B4C19109111001F5FD5 /* Factory.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A2440B3219109111001F5FD5 /* Factory.cpp */; };
+		A2440B4D19109111001F5FD5 /* Game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A2440B3419109111001F5FD5 /* Game.cpp */; };
+		A2440B4E19109111001F5FD5 /* Item.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A2440B3619109111001F5FD5 /* Item.cpp */; };
+		A2440B4F19109111001F5FD5 /* parser.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A2440B3819109111001F5FD5 /* parser.cpp */; };
+		A2440B5019109111001F5FD5 /* Player.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A2440B3A19109111001F5FD5 /* Player.cpp */; };
+		A2440B5119109111001F5FD5 /* Tile.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A2440B3C19109111001F5FD5 /* Tile.cpp */; };
+		A2440B5219109111001F5FD5 /* Unit.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A2440B3E19109111001F5FD5 /* Unit.cpp */; };
+		A2440B5319109111001F5FD5 /* Weapon.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A2440B4019109111001F5FD5 /* Weapon.cpp */; };
+		A2440B5419109111001F5FD5 /* XMLParser.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A2440B4219109111001F5FD5 /* XMLParser.cpp */; };
+		A2440B5519109111001F5FD5 /* XMLSerializable.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A2440B4419109111001F5FD5 /* XMLSerializable.cpp */; };
+		A2440B5719109134001F5FD5 /* libncurses.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = A2440B5619109134001F5FD5 /* libncurses.5.dylib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +45,39 @@
 		A2440B1A191090DA001F5FD5 /* game */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = game; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2440B1D191090DA001F5FD5 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		A2440B1F191090DA001F5FD5 /* game.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = game.1; sourceTree = "<group>"; };
+		A2440B2619109111001F5FD5 /* Armor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Armor.cpp; sourceTree = "<group>"; };
+		A2440B2719109111001F5FD5 /* Armor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Armor.h; sourceTree = "<group>"; };
+		A2440B2819109111001F5FD5 /* Consumable.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Consumable.cpp; sourceTree = "<group>"; };
+		A2440B2919109111001F5FD5 /* Consumable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Consumable.h; sourceTree = "<group>"; };
+		A2440B2A19109111001F5FD5 /* DungeonLevel.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DungeonLevel.cpp; sourceTree = "<group>"; };
+		A2440B2B19109111001F5FD5 /* DungeonLevel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DungeonLevel.h; sourceTree = "<group>"; };
+		A2440B2C19109111001F5FD5 /* Enemy.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Enemy.cpp; sourceTree = "<group>"; };
+		A2440B2D19109111001F5FD5 /* Enemy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Enemy.h; sourceTree = "<group>"; };
+		A2440B2E19109111001F5FD5 /* EnemyFactory.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = EnemyFactory.cpp; sourceTree = "<group>"; };
+		A2440B2F19109111001F5FD5 /* EnemyFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EnemyFactory.h; sourceTree = "<group>"; };
+		A2440B3019109111001F5FD5 /* Entity.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Entity.cpp; sourceTree = "<group>"; };
+		A2440B3119109111001F5FD5 /* Entity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Entity.h; sourceTree = "<group>"; };
+		A2440B3219109111001F5FD5 /* Factory.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Factory.cpp; sourceTree = "<group>"; };
+		A2440B3319109111001F5FD5 /* Factory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Factory.h; sourceTree = "<group>"; };
+		A2440B3419109111001F5FD5 /* Game.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Game.cpp; sourceTree = "<group>"; };
+		A2440B3519109111001F5FD5 /* Game.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Game.h; sourceTree = "<group>"; };
+		A2440B3619109111001F5FD5 /* Item.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Item.cpp; sourceTree = "<group>"; };
+		A2440B3719109111001F5FD5 /* Item.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Item.h; sourceTree = "<group>"; };
+		A2440B3819109111001F5FD5 /* parser.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = parser.cpp; sourceTree = "<group>"; };
+		A2440B3919109111001F5FD5 /* parser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = parser.h; sourceTree = "<group>"; };
+		A2440B3A19109111001F5FD5 /* Player.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Player.cpp; sourceTree = "<group>"; };
+		A2440B3B19109111001F5FD5 /* Player.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Player.h; sourceTree = "<group>"; };
+		A2440B3C19109111001F5FD5 /* Tile.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Tile.cpp; sourceTree = "<group>"; };
+		A2440B3D19109111001F5FD5 /* Tile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Tile.h; sourceTree = "<group>"; };
+		A2440B3E19109111001F5FD5 /* Unit.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Unit.cpp; sourceTree = "<group>"; };
+		A2440B3F19109111001F5FD5 /* Unit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Unit.h; sourceTree = "<group>"; };
+		A2440B4019109111001F5FD5 /* Weapon.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Weapon.cpp; sourceTree = "<group>"; };
+		A2440B4119109111001F5FD5 /* Weapon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Weapon.h; sourceTree = "<group>"; };
+		A2440B4219109111001F5FD5 /* XMLParser.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = XMLParser.cpp; sourceTree = "<group>"; };
+		A2440B4319109111001F5FD5 /* XMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMLParser.h; sourceTree = "<group>"; };
+		A2440B4419109111001F5FD5 /* XMLSerializable.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = XMLSerializable.cpp; sourceTree = "<group>"; };
+		A2440B4519109111001F5FD5 /* XMLSerializable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMLSerializable.h; sourceTree = "<group>"; };
+		A2440B5619109134001F5FD5 /* libncurses.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libncurses.5.dylib; path = ../../../opt/local/lib/libncurses.5.dylib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +85,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2440B5719109134001F5FD5 /* libncurses.5.dylib in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -44,6 +95,7 @@
 		A2440B11191090DA001F5FD5 = {
 			isa = PBXGroup;
 			children = (
+				A2440B5619109134001F5FD5 /* libncurses.5.dylib */,
 				A2440B1C191090DA001F5FD5 /* game */,
 				A2440B1B191090DA001F5FD5 /* Products */,
 			);
@@ -60,6 +112,38 @@
 		A2440B1C191090DA001F5FD5 /* game */ = {
 			isa = PBXGroup;
 			children = (
+				A2440B2619109111001F5FD5 /* Armor.cpp */,
+				A2440B2719109111001F5FD5 /* Armor.h */,
+				A2440B2819109111001F5FD5 /* Consumable.cpp */,
+				A2440B2919109111001F5FD5 /* Consumable.h */,
+				A2440B2A19109111001F5FD5 /* DungeonLevel.cpp */,
+				A2440B2B19109111001F5FD5 /* DungeonLevel.h */,
+				A2440B2C19109111001F5FD5 /* Enemy.cpp */,
+				A2440B2D19109111001F5FD5 /* Enemy.h */,
+				A2440B2E19109111001F5FD5 /* EnemyFactory.cpp */,
+				A2440B2F19109111001F5FD5 /* EnemyFactory.h */,
+				A2440B3019109111001F5FD5 /* Entity.cpp */,
+				A2440B3119109111001F5FD5 /* Entity.h */,
+				A2440B3219109111001F5FD5 /* Factory.cpp */,
+				A2440B3319109111001F5FD5 /* Factory.h */,
+				A2440B3419109111001F5FD5 /* Game.cpp */,
+				A2440B3519109111001F5FD5 /* Game.h */,
+				A2440B3619109111001F5FD5 /* Item.cpp */,
+				A2440B3719109111001F5FD5 /* Item.h */,
+				A2440B3819109111001F5FD5 /* parser.cpp */,
+				A2440B3919109111001F5FD5 /* parser.h */,
+				A2440B3A19109111001F5FD5 /* Player.cpp */,
+				A2440B3B19109111001F5FD5 /* Player.h */,
+				A2440B3C19109111001F5FD5 /* Tile.cpp */,
+				A2440B3D19109111001F5FD5 /* Tile.h */,
+				A2440B3E19109111001F5FD5 /* Unit.cpp */,
+				A2440B3F19109111001F5FD5 /* Unit.h */,
+				A2440B4019109111001F5FD5 /* Weapon.cpp */,
+				A2440B4119109111001F5FD5 /* Weapon.h */,
+				A2440B4219109111001F5FD5 /* XMLParser.cpp */,
+				A2440B4319109111001F5FD5 /* XMLParser.h */,
+				A2440B4419109111001F5FD5 /* XMLSerializable.cpp */,
+				A2440B4519109111001F5FD5 /* XMLSerializable.h */,
 				A2440B1D191090DA001F5FD5 /* main.cpp */,
 				A2440B1F191090DA001F5FD5 /* game.1 */,
 			);
@@ -117,7 +201,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2440B4D19109111001F5FD5 /* Game.cpp in Sources */,
+				A2440B4719109111001F5FD5 /* Consumable.cpp in Sources */,
+				A2440B4819109111001F5FD5 /* DungeonLevel.cpp in Sources */,
+				A2440B4B19109111001F5FD5 /* Entity.cpp in Sources */,
+				A2440B5519109111001F5FD5 /* XMLSerializable.cpp in Sources */,
+				A2440B4F19109111001F5FD5 /* parser.cpp in Sources */,
+				A2440B5219109111001F5FD5 /* Unit.cpp in Sources */,
+				A2440B5119109111001F5FD5 /* Tile.cpp in Sources */,
+				A2440B5319109111001F5FD5 /* Weapon.cpp in Sources */,
+				A2440B4E19109111001F5FD5 /* Item.cpp in Sources */,
+				A2440B4919109111001F5FD5 /* Enemy.cpp in Sources */,
+				A2440B4C19109111001F5FD5 /* Factory.cpp in Sources */,
+				A2440B5019109111001F5FD5 /* Player.cpp in Sources */,
+				A2440B5419109111001F5FD5 /* XMLParser.cpp in Sources */,
+				A2440B4A19109111001F5FD5 /* EnemyFactory.cpp in Sources */,
 				A2440B1E191090DA001F5FD5 /* main.cpp in Sources */,
+				A2440B4619109111001F5FD5 /* Armor.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -197,6 +297,10 @@
 		A2440B24191090DA001F5FD5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					/opt/local/lib,
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -204,6 +308,10 @@
 		A2440B25191090DA001F5FD5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					/opt/local/lib,
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
